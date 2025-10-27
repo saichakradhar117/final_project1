@@ -1,0 +1,14 @@
+# GitHub Final Project
+
+This is the final project repository for demonstrating Git and GitHub workflows.  
+It includes essential community files such as README, LICENSE, CONTRIBUTING, and CODE OF CONDUCT.
+
+## Features
+- Demonstrates Git CLI operations (branching, merging, reverting, etc.)
+- Includes a sample shell script (simple-interest.sh)
+- Follows best practices for open-source projects
+
+## How to Use
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/github-final-project.git
